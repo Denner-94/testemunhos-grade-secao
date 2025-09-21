@@ -1,19 +1,6 @@
 # Frontend Mentor - Solução para a seção de quatro cartões
 
-Esta é uma solução para o [desafio da seção de quatro cartões no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
-
-## Índice
-
-- [Visão geral](#visão-geral)
-- [O desafio](#o-desafio)
-- [Captura de tela](#captura-de-tela)
-- [Links](#links)
-- [Meu processo](#meu-processo)
-- [Construído com](#construído-com)
-- [O que aprendi](#o-que-aprendi)
-- [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-
-**Observação: exclua esta observação e atualize o índice com base nas seções que você mantiver.**
+Esta é uma solução para o [desafio de testemunhos-grade-seção](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 ## Visão geral
 
@@ -28,7 +15,8 @@ Bem estruturado e organizado.
 
 ### Links
 
-- URL do site ao vivo: [testemunhos-grade-secao]()
+- URL da solução: [GitHub](https://github.com/Denner-94/testemunhos-grade-secao)
+- URL do site ao vivo: [testemunhos-grade-secao](https://denner-94.github.io/testemunhos-grade-secao/)
 
 ## Meu processo
 
