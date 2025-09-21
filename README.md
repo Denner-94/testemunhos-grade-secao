@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução para a seção de quatro cartões
+# Frontend Mentor - Solução para desafio de TESTEMUNHOS DE GRADE
 
 Esta é uma solução para o [desafio de testemunhos-grade-seção](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
